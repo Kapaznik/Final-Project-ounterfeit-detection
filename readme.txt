@@ -8,3 +8,6 @@ Path/To/Photo - replace with the real path of the banknote that you want to chec
 
 
 Note: if vs.distribution() and vs.scatter() you can ignore them since they are only to illustrate some of the data but they are not necessary for the model
+
+Credit for the EDA:
+https://www.kaggle.com/code/dibyamurtyshaw/k-means-clustering-on-bank-note-authentication
